@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(to right, #eb7062, #df8479);
+    /* Background similar to Jurin */
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    /* Adjust the gap between the chat boxes */
+
+}
